@@ -45,7 +45,3 @@ Sony has a track record of cluttering their BRAVIAs with all kinds of bloat- and
 When looking at the installed packages and running processes, one might find deprecated technologies (BIVL, DIAL, Miracast/WiFi Direct,...), most of which are poorly implemented anyway, platforms in the platform (Sony Select, BRAVIA B2B/Hotelmode, Opera TV Store), promotional stuff (Gameloft etc.) and even a spy trojan in the form of Samba TV.
 
 In order to "debloat" the BRAVIA operating system, an ADB (Android Debug Bridge) script will soon be revealed, listing packages that can safely be removed, leading to an Android TV operating system that is more responsive and stable. Please do not execute it unless you know exactly what you are doing as the script might remove functionality you are actively using.
-
-### ADB Howto
-
-TBD
